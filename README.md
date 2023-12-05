@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @1982606762
 - 👀 I’m interested in Computer Science and Music
-- 🌱 I’m currently learning math and computer fundamental
+- 🌱 I’m currently learning game dev and Algorithm
 - 📫 How to reach me : Email xuanlang.zhao@icloud.com
 
 <!---
